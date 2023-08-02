@@ -1,2 +1,1 @@
-Print Current Working Directory (PWD) Shell Script
-This simple Bash shell script prints the present working directory (PWD) to the terminal. Just run the script, and it will display the current directory path.
+PGmBc7TfLQnIOs0rq2KW5E8jF1tpbJVi6UwA3ekSNvZyCahzXDPxd4MuRYlGOBEQvZD6NdWro7H04EK0A2i7pxXt
